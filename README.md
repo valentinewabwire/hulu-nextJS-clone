@@ -6,6 +6,8 @@
 4.CssGRID
 5.REST API(themoviedb)
 
+![image](https://user-images.githubusercontent.com/53892988/155985135-282b08d9-c385-453d-ac5a-0b0afea20781.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
